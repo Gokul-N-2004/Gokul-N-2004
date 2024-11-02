@@ -230,4 +230,4 @@
 
 </div>
 
-<img src="sea.svg" alt="svg" width="100%" height="100%">
+<img src="sea.svg" alt="svg" width="100%" height="100%">
