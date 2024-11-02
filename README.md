@@ -4,7 +4,7 @@
 
 
 # Hi, I'm Gokul N <img src="512.gif" alt="GIF" width="45" height="45">    
-<img src="Torch.png" align="right" alt="PNG" width="31%" height="31%">
+<img src="Torch.png" align="right" alt="PNG" width="32%" height="32%">
 
 
 ### Aspiring Software Developer Engineer (Web Developer / Programmer) 
