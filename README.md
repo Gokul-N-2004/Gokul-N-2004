@@ -30,7 +30,7 @@
 - ⚡ Fun fact: I know Telugu.😁
   
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KingGokul2004&&style=flat-square" alt="Profile views counter" width="17%" height="15%">
+  <img src="https://komarev.com/ghpvc/?username=Gokul-N-2004&&style=flat-square" alt="Profile views counter" width="17%" height="15%">
 </p>
 
 ---
@@ -159,10 +159,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KingGokul2004&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gokul-N-2004&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=KingGokul2004&theme=radical&hide_border=true" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=Gokul-N-2004&theme=radical&hide_border=true" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
@@ -171,11 +171,11 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGokul2004&exclude_repo=github-readme-stats,KingGokul2004.github.io&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-N-2004&exclude_repo=github-readme-stats,KingGokul2004.github.io&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
     </td>
     <td align="center">
-      <a href="https://github.com/KingGokul2004/My_PortFolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KingGokul2004&repo=My_PortFolio&theme=radical&hide_border=true" alt="Latest Project">
+      <a href="https://github.com/Gokul-N-2004/My_PortFolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gokul-N-2004&repo=My_PortFolio&theme=radical&hide_border=true" alt="Latest Project">
       </a>
     </td>
   </tr>
@@ -185,7 +185,7 @@
 <h2 align="center"><strong>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</strong></h2>
 <br />
 
-[![Gokul N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KingGokul2004&bg_color=200024&color=ffffff&line=f53d91&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gokul N's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul-N-2004&bg_color=200024&color=ffffff&line=f53d91&point=ffd700&area=true&hide_border=true)](https://github.com/Gokul-N-2004/github-readme-activity-graph)
 
 <br />
 
