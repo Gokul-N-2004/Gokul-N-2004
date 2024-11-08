@@ -162,8 +162,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gokul-N-2004&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Gokul-N-2004&theme=radical&hide_border=true" alt="GitHub Streak">
+     <img src="https://streak-stats.demolab.com/?user=Gokul-N-2004&theme=radical&hide_border=true" alt="GitHub Streak Radical Theme">
     </td>
+
   </tr>
   <tr>
     <th align="center">Tᴏᴘ Languages</th>
