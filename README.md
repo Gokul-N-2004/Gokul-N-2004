@@ -29,9 +29,7 @@
 
 - ⚡ Fun fact: I know Telugu.😁
   
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Gokul-N-2004&&style=flat-square" alt="Profile views counter" width="17%" height="15%">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gokul-N-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Gokul-N-2004" /> </p>
 
 ---
 
