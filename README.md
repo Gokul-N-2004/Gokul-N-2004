@@ -194,7 +194,7 @@
 
 | *LᴇᴇᴛCᴏᴅᴇ Cᴏɴᴛᴇsᴛ* | *LᴇᴇᴛCᴏᴅᴇ Hᴇᴀᴛmᴀᴘ* |
 |-----------------------------|--------------------------|
-| ![LeetCode Contest](https://leetcard.jacoblin.cool/GOKUL_N_CS?theme=radical&font=Tiro%20Tamil&ext=contest) | ![LeetCode Heatmap](https://leetcard.jacoblin.cool/GOKUL_N_CS?theme=radical&font=Tiro%20Tamil&ext=heatmap) |
+| ![LeetCode Contest](https://leetcard.jacoblin.cool/gokuln2004?theme=radical&font=Tiro%20Tamil&ext=contest) | ![LeetCode Heatmap](https://leetcard.jacoblin.cool/gokuln2004?theme=radical&font=Tiro%20Tamil&ext=heatmap) |
 
 ***
 
