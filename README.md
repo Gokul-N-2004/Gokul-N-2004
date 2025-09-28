@@ -7,27 +7,27 @@
 <img src="Torch.png" align="right" alt="PNG" width="31%" height="31%">
 
 
-### Aspiring Software Developer Engineer (Web Developer / Programmer) 
+### Software Developer | Security Enthusiast | Exploring Cloud & Cybersecurity 
 
 <br>
 
- I'm a pre-final year Cyber Security student @ Chennai Institute of Technology and an aspiring Software Developer Engineer. With having hands-on experience in Web Development and Full Stack Development.
+I am a final-year Cybersecurity student at Chennai Institute of Technology with hands-on experience across Software Development, Cyber security, and incident response. A continuous learner of Cloud technologies, I aspire to build secure and scalable solutions in both Cybersecurity and Software Development.”
  <br />
  
 
 - 🚀 Here's my [PortFolio](https://my-portfolio-gokul-projects.vercel.app/)
 
-- 👀 I’m interested in Software development, particularly in Full Stack Development.
+- 👀 I’m interested in Development | Cybersecurity & Cloud Technologies, particularly in Security.
 
 - 🔐 Knowledgeable in Cybersecurity principles and Software Development practices.
 
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) with Java.
+- 🌱 I’m currently learning Cloud Technologies and Data Structures and Algorithms in Java 
 
 - 💞 I'm interested in collaborating on Full Stack and Software development open-source projects.
 
 - 📫 You can Reach me via : [gokulndce.cs@gmail.com](mailto:gokulndce.cs@gmail.com)
 
-- ⚡ Fun fact: I know Telugu.😁
+- ⚡ Fun fact: I know Telugu, Tamil, Kanada.😁
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gokul-N-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Gokul-N-2004" /> </p>
 
