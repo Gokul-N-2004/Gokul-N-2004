@@ -7,7 +7,7 @@
 <img src="Torch.png" align="right" alt="PNG" width="31%" height="31%">
 
 
-### SAP Backend Developer ABAP Cloud | Security Enthusiast | Exploring Cloud & Cybersecurity 
+### SAP Backend Developer ABAP Cloud | Cloud Enthusiast | Exploring Cloud & Cybersecurity 
 
 <br>
 
