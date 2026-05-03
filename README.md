@@ -25,7 +25,7 @@ I am a final-year Cybersecurity student at Chennai Institute of Technology with 
 
 - 💞 I'm interested in collaborating on Full Stack and Software development open-source projects.
 
-- 📫 You can Reach me via : [gokulndce.cs@gmail.com](mailto:gokulndce.cs@gmail.com)
+- 📫 You can Reach me via : [gokulncs@gmail.com](mailto:gokulncs@gmail.com)
 
 - ⚡ Fun fact: I know Telugu, Tamil, Kanada.😁
   
